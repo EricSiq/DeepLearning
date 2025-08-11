@@ -87,5 +87,3 @@ Apply RNNs to predict equipment failures before they happen.
 * Refer to the "Why it matters" sections to connect concepts to real-world problems.
 
 ---
-
-> **Tip for younger students:** Focus first on understanding **why** a model is used before diving into **how** it works. Real impact comes when you can choose the right model for the right problem.
